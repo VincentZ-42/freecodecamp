@@ -1,7 +1,9 @@
 # [Cafe Menu](https://vincentz-42.github.io/freecodecamp/CafeMenu/)
+![Cafe Menu](/Cafe Menu webpage.png)
 
 ## Description
-* A webpage of a cafe menu with a variety of coffee and dessert options. To view the webpage, click [here](https://vincentz-42.github.io/freecodecamp/CafeMenu/)
+* A webpage of a cafe menu with a variety of coffee and dessert options. 
+* To view the webpage, click [here](https://vincentz-42.github.io/freecodecamp/CafeMenu/)
 
 
 ## Learning Objective
