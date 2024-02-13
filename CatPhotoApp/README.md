@@ -1,5 +1,6 @@
 # [Cat Photo App](https://vincentz-42.github.io/freecodecamp/CatPhotoApp/)
 
+| | |
 | ---| --- |
 | [![CatPhotoApp1](CatPhotoApp1.png)](#) | [![CatPhotoApp2](CatPhotoApp2.png)](#) |
 
