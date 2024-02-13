@@ -5,8 +5,8 @@
 | [![CatPhotoApp1](CatPhotoApp1.png)](#) | [![CatPhotoApp2](CatPhotoApp2.png)](#) |
 
 <div>
-  <img src="CatPhotoApp1.png">
-  <img src="CatPhotoApp1.png">
+  <img src="CatPhotoApp1.png" style="display:block">
+  <img src="CatPhotoApp1.png" style="display:block">
 </div>
 
 ## Description
