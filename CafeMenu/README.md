@@ -1,5 +1,5 @@
 # [Cafe Menu](https://vincentz-42.github.io/freecodecamp/CafeMenu/)
-![Cafe Menu](Cafe%20Menu%20webpage.png)
+[![Cafe Menu](Cafe%20Menu%20webpage.png)]#
 
 ## Description
 * A webpage of a cafe menu with a variety of coffee and dessert options. 
