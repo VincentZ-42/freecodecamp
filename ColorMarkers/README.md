@@ -1,5 +1,5 @@
 # [Color Markers](https://vincentz-42.github.io/freecodecamp/ColorMarkers/)
-[![Color Markers]()](#)
+[![Color Markers](colormarker.png)](#)
 
 ## Description
 * A webpage that displays color markers by using various CSS coloring functions and their properties 
