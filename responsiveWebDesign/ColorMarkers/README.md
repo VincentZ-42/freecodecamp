@@ -1,9 +1,9 @@
-# [Color Markers](https://vincentz-42.github.io/freecodecamp/ColorMarkers/)
+# [Color Markers](https://vincentz-42.github.io/freecodecamp/responsiveWebDesign/ColorMarkers/)
 [![Color Markers](colormarker.png)](#)
 
 ## Description
 * A webpage that displays color markers by using various CSS coloring functions and their properties 
-* To view the webpage, click [here](https://vincentz-42.github.io/freecodecamp/ColorMarkers/)
+* To view the webpage, click [here](https://vincentz-42.github.io/freecodecamp/responsiveWebDesign/ColorMarkers/)
 
 
 ## Learning Objective
