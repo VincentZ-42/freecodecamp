@@ -1,5 +1,5 @@
 # [Registration Form](https://vincentz-42.github.io/freecodecamp/RegistrationForm/)
-[![Registration Form]()](#)
+[![Registration Form](registrationform.png)](#)
 
 ## Description
 * A webpage of a Registration Form to create a account 
