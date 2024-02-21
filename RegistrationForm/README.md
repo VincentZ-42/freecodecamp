@@ -3,7 +3,7 @@
 [<img src="registrationform.png" alt="Registration Form" width="50%">](#)
 
 ## Description
-* A webpage of a Registration Form to create a account 
+* A webpage of a Registration Form to stimulate collection of basic information to create an account 
 * To view the webpage, click [here](https://vincentz-42.github.io/freecodecamp/RegistrationForm/)
 
 
