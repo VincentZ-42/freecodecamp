@@ -1,0 +1,67 @@
+body {
+  background-image: url("https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-color: rgba(10,00, 100, 0.5);
+  background-size: contain;
+  background-size: cover;
+}
+
+.header {
+  color: rgb(360,360,360);
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.form-group {
+  background-color:rgba(0,100,300, 0.4);
+  padding: auto auto;
+  margin: 0 auto 0 auto;
+  width: 60%;
+  color: white;
+  padding-bottom: 5px;
+}
+
+label {
+  display: flex;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+input {
+  display: block;
+  min-height: 1.25rem;
+  min-width: 1.25rem;
+}
+
+input[type=radio], 
+input[type=checkbox] {
+  float: left;
+}
+
+input[type=text],
+input[type=number],
+input[type=email],
+select,
+textarea {
+  display: inline-block;
+  width: 100%;
+}
+
+select, 
+fieldset,
+textarea {
+  margin-bottom: 20px; 
+}
+
+.inline {
+  display: inline;
+  padding-right: 50px;
+}
+
+input[type=submit] {
+  margin: auto;
+  font-size: 1.75rem;
+}
+
+.submit:hover {
+  border: 2px solid black;
+}

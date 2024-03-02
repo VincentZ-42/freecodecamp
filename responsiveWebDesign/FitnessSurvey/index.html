@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Fitness Survey</title>
+  </head>
+  <body>
+    <div class="header">
+    <h1 id="title">Fitness Survey</h1>
+    <p id="description">What are your fitness goals for this year?</p>
+    </div>
+    <div class="form-group">
+    <form id="survey-form">
+      <label id="name-label" for="name">Name</label>
+        <input id="name" type="text" placeholder="Enter your name" required/>
+      <label id="email-label" for="email" >Email</label>
+        <input id="email" type="email" placeholder="Enter your email" required/>
+      <label id="number-label" for="number">Age (optional)</label>
+        <input id="number" type="number" min="0" max="100" placeholder="Age"/>
+      <label for="dropdown">What is your current fitness goal?</label>
+        <select id="dropdown">
+          <option value="">--Please select your goal--</option>
+          <option value="lose-weight">Lose weight</option>
+          <option value="gain-muscle">Gain muscle</option>
+          <option value="maintain-health">Maintain health</option>
+          </select>
+      <fieldset>
+        <legend>How often do you exercise in a week?</legend>
+        <input id="low" name="active" type="radio" value="low"/>
+          <label for="low">Exercise once a week</label>
+        <input id="moderate" name="active" type="radio" value="moderate"/>
+          <label for="moderate">Exercise at least 3 times a week</label>
+        <input id="high" name="active" type="radio" value="high"/>
+          <label for="high">Exercise 5 or more times per week</label>
+      </fieldset>
+      <fieldset>
+        <legend>What kind of help would you be interested in?</legend>
+        <input id="consult" type="checkbox" value="consult">
+          <label for="consult">Consultation</label>
+        <input id="train" type="checkbox" value="train">
+          <label for="train">Personal Training</label>
+        <input id="diet" type="checkbox" value="deit">
+          <label for="diet">Dietitian</label>
+      </fieldset>
+      <label for="comments">Additional comments?</label>
+        <textarea id="comments" name="comments" rows="5" cols="50" placeholder="Please list any comments or description of things you want to work on."></textarea>
+      <input id="submit" type="submit" />
+      </div>
+  </body>
+</html>
