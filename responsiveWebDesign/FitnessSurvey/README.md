@@ -11,4 +11,4 @@
 * To build a survey form to collect information using knowledge of HTML to format the webpage and CSS to format the styling. 
 
 ## References
-* This is the first certification project in the Responsive Web Design Certification curriculum by [freeCodeCamp.org](freeCodeCamp.org)
+* This is the first certification project in the Responsive Web Design Certification curriculum by [freecodecamp.org](freecodecamp.org)
