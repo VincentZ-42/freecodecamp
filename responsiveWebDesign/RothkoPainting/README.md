@@ -1,4 +1,4 @@
-# [Registration Form](https://vincentz-42.github.io/freecodecamp/responsiveWebDesign/RothkoPainting/)
+# [Rothko Painting](https://vincentz-42.github.io/freecodecamp/responsiveWebDesign/RothkoPainting/)
 
 [<img src="rothko.png" alt="Rothko Painting" width="50%">](#)
 
