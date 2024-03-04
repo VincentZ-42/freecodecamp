@@ -10,4 +10,4 @@
 * To learn how to manipulate CSS coloring through the use of hexidecimal values and various functions (such as rgb, hsl, and linear-gradient) as well as many associated properties (such as opacity, border, and shadows)
 
 ## References
-* This is the third project in the Responsive Web Design Certification curriculum by [freeCodeCamp.org](freeCodeCamp.org)
+* This is the third project in the Responsive Web Design Certification curriculum by [freeCodeCamp.org](https://freeCodeCamp.org)

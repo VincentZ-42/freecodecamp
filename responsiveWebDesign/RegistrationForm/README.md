@@ -11,4 +11,4 @@
 * To learn how collect information using HTML forms by building a signup page as well as how to control types of data people can interact with on the webpage(such as text, radio, file, email, password, and textarea)
 
 ## References
-* This is the fourth project in the Responsive Web Design Certification curriculum by [freeCodeCamp.org](freeCodeCamp.org)
+* This is the fourth project in the Responsive Web Design Certification curriculum by [freeCodeCamp.org](https://freeCodeCamp.org)
