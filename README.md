@@ -1,10 +1,9 @@
 # Repository of freecodecamp Projects
 
-Holds all projects in freecodeCamp
+[Website link](https://vincentz-42.github.io/freecodecamp/)
 
 ## Responsive Web Design
 
-- [Completed projects](https://vincentz-42.github.io/freecodecamp/)
 - [Learn HTML by Building a Cat Photo App](https://github.com/VincentZ-42/freecodecamp/tree/main/responsiveWebDesign/CatPhotoApp)
 - [Learn Basic CSS by Building a Cafe Menu](https://github.com/VincentZ-42/freecodecamp/tree/main/responsiveWebDesign/CafeMenu)
 - [Learn CSS Colors by Building a Set of Colored Markers](https://github.com/VincentZ-42/freecodecamp/tree/main/responsiveWebDesign/ColorMarkers)
