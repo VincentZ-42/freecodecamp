@@ -1,6 +1,6 @@
 # [Cat Gallery](https://vincentz-42.github.io/freecodecamp/responsiveWebDesign/CatGallery/)
 
-[![Cafe Menu](Cafe%20Menu%20webpage.png)](#)
+[![Cat Gallery](CatGallery.png)](#)
 
 ## Description
 
