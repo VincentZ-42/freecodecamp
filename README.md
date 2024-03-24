@@ -12,7 +12,7 @@
 
 - [Learn the CSS Box Model by Building a Rothko Painting](https://github.com/VincentZ-42/freecodecamp/tree/main/responsiveWebDesign/RothkoPainting)
 - [Learn CSS Flexbox by Building a Photo Gallery](https://github.com/VincentZ-42/freecodecamp/tree/main/responsiveWebDesign/CatGallery)
-- Learn Typography by Building a Nutrition Label
+- [Learn Typography by Building a Nutrition Label](https://github.com/VincentZ-42/freecodecamp/tree/main/responsiveWebDesign/nutritionLabel)
 - Learn Accessibility by Building a Quiz
 - Tribute Page
 

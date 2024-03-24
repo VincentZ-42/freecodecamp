@@ -1,6 +1,6 @@
 # [Nutrition Label](https://vincentz-42.github.io/freecodecamp/responsiveWebDesign/nutritionLabel/)
 
-[![Cat Gallery](CatGallery.png)](#)
+[![Nutrition Label](nutritionLabel.png)](#)
 
 ## Description
 
